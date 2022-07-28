@@ -29,6 +29,7 @@
 
    <img src="images/about-img.png" alt="">
    <h3>about us</h3>
+   <h1>We are wedding planners</h1>
    <p> Warmly welcome to our website! We are professional event planners..We provide everything you need for your special occasions..we will decorate,beautify,make deliciously your unforgettable days in your life..So Contact us to celebrate the most beautiful days of your life.. </p>
    <a href="contact.php" class="btn">contact us</a>
 
